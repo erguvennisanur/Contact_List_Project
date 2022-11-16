@@ -1,1 +1,1 @@
-React ile oluşturuldu.
+React kütüphanesi kullanılarak oluşturuldu.
