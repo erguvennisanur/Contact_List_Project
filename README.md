@@ -1,1 +1,1 @@
-
+React ile oluşturuldu.
